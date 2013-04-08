@@ -1,0 +1,21 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="Menu.HelpWindow"
+        Title="HelpWindow" Height="500" Width="500" Unloaded="Window_Unloaded" Closing="Window_Closing" AllowsTransparency="True" WindowStyle="None" Background="{x:Null}">
+    <Grid Margin="0,0,0,36">
+    	<Rectangle RadiusY="50.5" RadiusX="50.5" Opacity="0.795" Height="462" VerticalAlignment="Top" MouseDown="RectMouseDown" HorizontalAlignment="Right" Width="500">
+    		<Rectangle.Fill>
+    			<LinearGradientBrush EndPoint="2.248,-0.101" MappingMode="RelativeToBoundingBox" StartPoint="0.015,0.955">
+    				<GradientStop Color="#FF373131" Offset="0.578"/>
+    				<GradientStop Color="#FFB18888"/>
+    			</LinearGradientBrush>
+    		</Rectangle.Fill>
+    	</Rectangle>
+        <TextBlock TextWrapping="Wrap" FontSize="32" FontFamily="Monotype Corsiva" TextAlignment="Justify" Foreground="Orange" Margin="16,8,20,128" MouseDown="TBMouseDown"><TextBlock.Effect>
+    			<DropShadowEffect/>
+    		</TextBlock.Effect><Run Text="3D-XO - "/><Run Language="ru-ru" Text="игра в крестики-нолики на трёхмерной плоскости. Побеждает тот игрок, который первым составит в ряд 4 своих фишки."/><LineBreak/><Run Language="ru-ru" Text="Данная игра отлично служит развитию пространственного мышления и будет интересна и детям и взрослым."/><LineBreak/><Run Language="ru-ru" Text="Приятной Игры!"/></TextBlock>
+    	<Button x:Name="button3" Content="Назад" Height="61.333" Margin="144,384,140,0" Style="{DynamicResource MenuButton}" VerticalAlignment="Top" FontFamily="Monotype Corsiva" FontSize="18.667" Foreground="Orange" Click="Button3_Click">
+    		<Button.Effect>
+    			<DropShadowEffect ShadowDepth="9"/>
+    		</Button.Effect>
+    	</Button>
+    </Grid>
+</Window>

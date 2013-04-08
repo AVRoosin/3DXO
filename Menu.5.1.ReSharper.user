@@ -1,0 +1,341 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="this" priority="17" />
+      <Item value="Help" priority="1" />
+      <Item value="Menu" priority="0" />
+      <Item value="Cube" priority="1" />
+      <Item value="i" priority="4" />
+      <Item value="if" priority="14" />
+      <Item value="private" priority="14" />
+      <Item value="void" priority="6" />
+      <Item value="int" priority="10" />
+      <Item value="RwN" priority="2" />
+      <Item value="Length" priority="0" />
+      <Item value="TryWin`0" priority="0" />
+      <Item value="finished" priority="1" />
+      <Item value="true" priority="5" />
+      <Item value="Pl1" priority="3" />
+      <Item value="public" priority="4" />
+      <Item value="Win" priority="2" />
+      <Item value="else" priority="8" />
+      <Item value="false" priority="5" />
+      <Item value="Pl2" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="return" priority="4" />
+      <Item value="Windows" priority="7" />
+      <Item value="Controls" priority="0" />
+      <Item value="Button`0" priority="4" />
+      <Item value="new" priority="28" />
+      <Item value="Button" priority="2" />
+      <Item value="textBoxX" priority="3" />
+      <Item value="GameWindow`0" priority="4" />
+      <Item value="GameWindow" priority="1" />
+      <Item value="G" priority="0" />
+      <Item value="Convert`0" priority="2" />
+      <Item value="n" priority="1" />
+      <Item value="button1" priority="4" />
+      <Item value="Game`0" priority="1" />
+      <Item value="XOGame" priority="3" />
+      <Item value="Game" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="2" />
+      <Item value="break" priority="2" />
+      <Item value="MouseButtonState`0" priority="0" />
+      <Item value="wrapPanel1" priority="0" />
+      <Item value="Btn" priority="11" />
+      <Item value="for" priority="0" />
+      <Item value="Int16`0" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="object" priority="2" />
+      <Item value="Btn_Click`0" priority="0" />
+      <Item value="x" priority="2" />
+      <Item value="sender" priority="2" />
+      <Item value="B" priority="0" />
+      <Item value="RoutedEventArgs`0" priority="1" />
+      <Item value="as" priority="0" />
+      <Item value="str" priority="0" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="System" priority="7" />
+      <Item value="MainWindow`0" priority="2" />
+      <Item value="MainWindow" priority="1" />
+      <Item value="Main" priority="0" />
+      <Item value="Media" priority="6" />
+      <Item value="Media3D" priority="5" />
+      <Item value="PerspectiveCamera`0" priority="0" />
+      <Item value="AssemblyLoadEventArgs`0" priority="1" />
+      <Item value="PerspectiveCamera" priority="0" />
+      <Item value="Point3D`0" priority="1" />
+      <Item value="Point3D" priority="1" />
+      <Item value="double" priority="0" />
+      <Item value="pos1" priority="6" />
+      <Item value="X" priority="6" />
+      <Item value="dir1" priority="4" />
+      <Item value="newcam" priority="2" />
+      <Item value="Vector3D`0" priority="0" />
+      <Item value="Vector3D" priority="1" />
+      <Item value="SetX`0" priority="1" />
+      <Item value="Slider1" priority="1" />
+      <Item value="Model3D`0" priority="1" />
+      <Item value="GeometryModel3D`0" priority="3" />
+      <Item value="ModelVisual3D`0" priority="1" />
+      <Item value="ModelVisual3D" priority="1" />
+      <Item value="thorus" priority="1" />
+      <Item value="Material`0" priority="1" />
+      <Item value="DiffuseMaterial`0" priority="0" />
+      <Item value="DiffuseMaterial" priority="0" />
+      <Item value="Brush`0" priority="2" />
+      <Item value="BBrush" priority="0" />
+      <Item value="SolidColorBrush`0" priority="1" />
+      <Item value="SolidColorBrush" priority="1" />
+      <Item value="Color`0" priority="0" />
+      <Item value="Colors`0" priority="1" />
+      <Item value="DifMatBl" priority="0" />
+      <Item value="Rect3D`0" priority="0" />
+      <Item value="Rect3D" priority="0" />
+      <Item value="Geometry3D`0" priority="0" />
+      <Item value="tor" priority="4" />
+      <Item value="Torus_012Container" priority="0" />
+      <Item value="TranslateTransform3D`0" priority="1" />
+      <Item value="TranslateTransform3D" priority="0" />
+      <Item value="Transform3DGroup`0" priority="0" />
+      <Item value="Transform3DGroup" priority="0" />
+      <Item value="trtr3d" priority="2" />
+      <Item value="Animation" priority="0" />
+      <Item value="DoubleAnimation`0" priority="0" />
+      <Item value="DoubleAnimation" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="fillBehavior" priority="1" />
+      <Item value="dbAnim" priority="0" />
+      <Item value="trgroup" priority="1" />
+      <Item value="TorusSet`0" priority="0" />
+      <Item value="YPos" priority="0" />
+      <Item value="CurrCol" priority="0" />
+      <Item value="currcol" priority="0" />
+      <Item value="z" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="Markup" priority="0" />
+      <Item value="DynamicDocumentPaginator`0" priority="0" />
+      <Item value="DynamicResourceExtension`0" priority="0" />
+      <Item value="Control`0" priority="0" />
+      <Item value="GW" priority="0" />
+      <Item value="M" priority="0" />
+      <Item value="HelpWindow`0" priority="0" />
+      <Item value="HelpWindow" priority="0" />
+      <Item value="StackPanel`0" priority="0" />
+      <Item value="SP1" priority="0" />
+      <Item value="groupBox1" priority="0" />
+      <Item value="button5" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.MainWindow">
+      <Item value="Close`0" priority="2" />
+      <Item value="IsEnabled" priority="0" />
+      <Item value="Show`0" priority="1" />
+      <Item value="DragMove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.Place">
+      <Item value="Available" priority="0" />
+      <Item value="Lines" priority="0" />
+      <Item value="Occup" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.Comb">
+      <Item value="AddPlace`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.Player">
+      <Item value="Win" priority="0" />
+      <Item value="Turn" priority="1" />
+      <Item value="IsWon`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.GameWindow">
+      <Item value="Show`0" priority="1" />
+      <Item value="textBlock1" priority="0" />
+      <Item value="Close`0" priority="3" />
+      <Item value="DialogResult" priority="0" />
+      <Item value="ShowDialog`0" priority="0" />
+      <Item value="AddChild`0" priority="0" />
+      <Item value="Template" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="1" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Name" priority="2" />
+      <Item value="Click" priority="1" />
+      <Item value="ApplyTemplate`0" priority="0" />
+      <Item value="Template" priority="3" />
+      <Item value="Style" priority="2" />
+      <Item value="Background" priority="0" />
+      <Item value="Foreground" priority="0" />
+      <Item value="Effect" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.Game">
+      <Item value="DoTurn`0" priority="0" />
+      <Item value="YPos" priority="0" />
+      <Item value="CurrCol" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.WrapPanel">
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.UIElementCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Concat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="First`1" priority="0" />
+      <Item value="Last`1" priority="0" />
+      <Item value="Indexer" priority="0" />
+      <Item value="Substring`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Menu.HelpWindow">
+      <Item value="Close`0" priority="1" />
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Point3D">
+      <Item value="X" priority="2" />
+      <Item value="Z" priority="2" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.PerspectiveCamera">
+      <Item value="Position" priority="0" />
+      <Item value="Dispatcher" priority="1" />
+      <Item value="LookDirection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Slider">
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.ModelVisual3D">
+      <Item value="Content" priority="0" />
+      <Item value="Transform" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Model3D">
+      <Item value="Transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.GeometryModel3D">
+      <Item value="BackMaterial" priority="0" />
+      <Item value="Material" priority="2" />
+      <Item value="Transform" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Colors">
+      <Item value="Black" priority="0" />
+      <Item value="Red" priority="0" />
+      <Item value="Blue" priority="0" />
+      <Item value="Transparent" priority="0" />
+      <Item value="Wheat" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Transform3D">
+      <Item value="TransformBounds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromMilliseconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.TranslateTransform3D">
+      <Item value="BeginAnimation`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Media.Media3D.TranslateTransform3D">
+      <Item value="OffsetYProperty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Transform3DGroup">
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Transform3DCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.Media3D.Vector3D">
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+      <Item value="Z" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ControlTemplate">
+      <Item value="LoadContent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.StackPanel">
+      <Item value="MouseDown" priority="0" />
+      <Item value="IsMouseDirectlyOver" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Input.MouseButtonEventArgs">
+      <Item value="LeftButton" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Media.SolidColorBrush">
+      <Item value="Color" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml" caret="1161" fromTop="11" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml" caret="1406" fromTop="6" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="4138" fromTop="9" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml.cs" caret="1051" fromTop="27" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml.cs" caret="1308" fromTop="38" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Comb.cs" caret="537" fromTop="13" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Place.cs" caret="0" fromTop="0" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="1941" fromTop="60" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Player.cs" caret="136" fromTop="9" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Game.cs" caret="109" fromTop="6" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml" caret="1" fromTop="0" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="7" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="33014" fromTop="26" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="5" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="6" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="6" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="13" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="2706809" fromTop="6" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="33135" fromTop="24" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="4135" fromTop="12" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="33324" fromTop="26" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="4143" fromTop="15" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml" caret="770" fromTop="3" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="477" fromTop="4" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="33620" fromTop="27" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml.cs" caret="893" fromTop="34" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml" caret="1151" fromTop="11" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml.cs" caret="1267" fromTop="33" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:HelpWindow.xaml.cs" caret="1151" fromTop="29" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml" caret="1406" fromTop="6" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml" caret="4138" fromTop="9" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml.cs" caret="1100" fromTop="32" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:MainWindow.xaml.cs" caret="1308" fromTop="38" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="33941" fromTop="32" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="34149" fromTop="38" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="2333" fromTop="35" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:GameWindow.xaml.cs" caret="1941" fromTop="21" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Player.cs" caret="136" fromTop="9" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Game.cs" caret="389" fromTop="13" />
+      <File id="E39BA394-757E-4ADA-91BF-10ECAC1F5095/f:Game.cs" caret="668" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
